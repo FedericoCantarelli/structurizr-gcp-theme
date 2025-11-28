@@ -1,2 +1,2 @@
-# gcp-theme
-Structurizr theme for google cloud architecture
+# Structurizr GCP Theme
+A simple Structurizr theme for Google Cloud architectures.
