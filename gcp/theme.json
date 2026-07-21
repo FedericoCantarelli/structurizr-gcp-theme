@@ -3,66 +3,10 @@
     "description": "Description here",
     "elements": [
         {
-            "tag": "gcp - Category - Databases Color",
+            "tag": "gcp - Category - Migration Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_databases_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Web Mobile Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_web_mobile_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Dev Ops Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_dev_ops_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Serverless Computing Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_serverless_computing_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Data Analytics Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_data_analytics_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Ai Machine Learning Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_ai_machine_learning_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Integration Services Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_integration_services_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Compute Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_compute_color.svg",
+            "icon": "gcp_category_migration_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
@@ -70,135 +14,79 @@
             "tag": "gcp - Category - Developer Tools Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_developer_tools_color.svg",
+            "icon": "gcp_category_developer_tools_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Migration Color",
+            "tag": "gcp - Category - Networking Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_migration_color.svg",
+            "icon": "gcp_category_networking_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Maps Geospatial Color",
+            "tag": "gcp - Category - Compute Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_maps_geospatial_color.svg",
+            "icon": "gcp_category_compute_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Mixed Reality Color",
+            "tag": "gcp - Category - Integration Services Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_mixed_reality_color.svg",
+            "icon": "gcp_category_integration_services_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Operations Color",
+            "tag": "gcp - Category - Ai Machine Learning Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_operations_color.svg",
+            "icon": "gcp_category_ai_machine_learning_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Management Tools Color",
+            "tag": "gcp - Category - Data Analytics Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_management_tools_color.svg",
+            "icon": "gcp_category_data_analytics_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Containers Color",
+            "tag": "gcp - Category - Serverless Computing Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_containers_color.svg",
+            "icon": "gcp_category_serverless_computing_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Web Color",
+            "tag": "gcp - Category - Dev Ops Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_web_color.svg",
+            "icon": "gcp_category_dev_ops_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Storage Color",
+            "tag": "gcp - Category - Web Mobile Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_storage_color.svg",
+            "icon": "gcp_category_web_mobile_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Collaboration Color",
+            "tag": "gcp - Category - Databases Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_collaboration_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Networking Color Rgb",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_networking_color_rgb.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Hybrid Multicloud Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_hybrid_multicloud_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Marketplace Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_marketplace_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Agents Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_agents_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Business Intelligence Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_business_intelligence_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Security Identity Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_security_identity_color.svg",
-            "shape": "RoundedBox",
-            "border": "solid"
-        },
-        {
-            "tag": "gcp - Category - Media Services Color",
-            "stroke": "#FF0000",
-            "color": "#00FF00",
-            "icon": "gcp_category_media_services_color.svg",
+            "icon": "gcp_category_databases_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
@@ -206,103 +94,119 @@
             "tag": "gcp - Category - Observability Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_category_observability_color.svg",
+            "icon": "gcp_category_observability_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - General - Google",
+            "tag": "gcp - Category - Media Services Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_general_google.svg",
+            "icon": "gcp_category_media_services_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Distributed Cloud Color",
+            "tag": "gcp - Category - Security Identity Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_distributed_cloud_color.svg",
+            "icon": "gcp_category_security_identity_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Cloud Sql Color",
+            "tag": "gcp - Category - Business Intelligence Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_cloud_sql_color.svg",
+            "icon": "gcp_category_business_intelligence_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Security Command Center Color",
+            "tag": "gcp - Category - Agents Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_security_command_center_color.svg",
+            "icon": "gcp_category_agents_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Cloud Run Color Rgb",
+            "tag": "gcp - Category - Marketplace Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_cloud_run_color_rgb.svg",
+            "icon": "gcp_category_marketplace_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Compute Engine Color Rgb",
+            "tag": "gcp - Category - Hybrid Multicloud Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_compute_engine_color_rgb.svg",
+            "icon": "gcp_category_hybrid_multicloud_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Big Query Color",
+            "tag": "gcp - Category - Collaboration Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_big_query_color.svg",
+            "icon": "gcp_category_collaboration_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Mandiant Color",
+            "tag": "gcp - Category - Storage Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_mandiant_color.svg",
+            "icon": "gcp_category_storage_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Sec Ops Color Rgb",
+            "tag": "gcp - Category - Containers Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_sec_ops_color_rgb.svg",
+            "icon": "gcp_category_containers_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Anthos Color",
+            "tag": "gcp - Category - Management Tools Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_anthos_color.svg",
+            "icon": "gcp_category_management_tools_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Apigee Color Rgb",
+            "tag": "gcp - Category - Web Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_apigee_color_rgb.svg",
+            "icon": "gcp_category_web_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Gke Color",
+            "tag": "gcp - Category - Operations Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_gke_color.svg",
+            "icon": "gcp_category_operations_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Category - Mixed Reality Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_category_mixed_reality_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Category - Maps Geospatial Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_category_maps_geospatial_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
@@ -310,55 +214,87 @@
             "tag": "gcp - Unique - Looker Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_looker_color.svg",
+            "icon": "gcp_unique_looker_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Alloy Db Color",
+            "tag": "gcp - Unique - Gke Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_alloy_db_color.svg",
+            "icon": "gcp_unique_gke_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Cloud Spanner Color",
+            "tag": "gcp - Unique - Anthos Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_cloud_spanner_color.svg",
+            "icon": "gcp_unique_anthos_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Threat Intelligence Color",
+            "tag": "gcp - Unique - Sec Ops Color Rgb",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_threat_intelligence_color.svg",
+            "icon": "gcp_unique_sec_ops_color_rgb.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Vertex Ai Color",
+            "tag": "gcp - Unique - Mandiant Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_vertex_ai_color.svg",
+            "icon": "gcp_unique_mandiant_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Hyperdisk Color",
+            "tag": "gcp - Unique - Big Query Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_hyperdisk_color.svg",
+            "icon": "gcp_unique_big_query_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Cloud Storage Color",
+            "tag": "gcp - Unique - Cloud Run Color Rgb",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_cloud_storage_color.svg",
+            "icon": "gcp_unique_cloud_run_color_rgb.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Unique - Security Command Center Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_unique_security_command_center_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Unique - Cloud Sql Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_unique_cloud_sql_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Unique - Distributed Cloud Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_unique_distributed_cloud_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Unique - Apigee Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_unique_apigee_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         },
@@ -366,7 +302,63 @@
             "tag": "gcp - Unique - Ai Hypercomputer Color",
             "stroke": "#FF0000",
             "color": "#00FF00",
-            "icon": "gcp_unique_ai_hypercomputer_color.svg",
+            "icon": "gcp_unique_ai_hypercomputer_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Unique - Cloud Storage Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_unique_cloud_storage_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Unique - Hyperdisk Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_unique_hyperdisk_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Unique - Vertex Ai Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_unique_vertex_ai_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Unique - Compute Engine Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_unique_compute_engine_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Unique - Threat Intelligence Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_unique_threat_intelligence_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Unique - Cloud Spanner Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_unique_cloud_spanner_color.png",
+            "shape": "RoundedBox",
+            "border": "solid"
+        },
+        {
+            "tag": "gcp - Unique - Alloy Db Color",
+            "stroke": "#FF0000",
+            "color": "#00FF00",
+            "icon": "gcp_unique_alloy_db_color.png",
             "shape": "RoundedBox",
             "border": "solid"
         }
