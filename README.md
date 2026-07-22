@@ -12,12 +12,11 @@ To use this theme, just add the following line to your view statement:
 ```dsl
 views {
   ...
-  themes https://raw.githubusercontent.com/FedericoCantarelli/structurizr-gcp-theme/refs/heads/main/<your-version>/gcp/theme.json
+  themes https://raw.githubusercontent.com/FedericoCantarelli/structurizr-gcp-theme/refs/heads/<your-version>/gcp/theme.json
   }
 ```
-you can replace `<your-version>` with the version you want to use. For example, if you want to use version 0, you can use `v0`.
+You can replace `<your-version>` with the version you want to use. For example, if you want to use version 0, you can use `v0`. If you want to use the latest version, you can use `main`.
 
-<br><br>
 Then you can simply use the theme by assigning the TAG to your elements.
 
 ## Limitation
