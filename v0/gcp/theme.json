@@ -5,7 +5,7 @@
         {
             "tag": "gcp - Category - Migration Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_migration_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -13,7 +13,7 @@
         {
             "tag": "gcp - Category - Developer Tools Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_developer_tools_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -21,7 +21,7 @@
         {
             "tag": "gcp - Category - Networking Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_networking_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -29,7 +29,7 @@
         {
             "tag": "gcp - Category - Compute Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_compute_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -37,7 +37,7 @@
         {
             "tag": "gcp - Category - Integration Services Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_integration_services_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -45,7 +45,7 @@
         {
             "tag": "gcp - Category - Ai Machine Learning Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_ai_machine_learning_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -53,7 +53,7 @@
         {
             "tag": "gcp - Category - Data Analytics Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_data_analytics_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -61,7 +61,7 @@
         {
             "tag": "gcp - Category - Serverless Computing Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_serverless_computing_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -69,7 +69,7 @@
         {
             "tag": "gcp - Category - Dev Ops Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_dev_ops_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -77,7 +77,7 @@
         {
             "tag": "gcp - Category - Web Mobile Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_web_mobile_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -85,7 +85,7 @@
         {
             "tag": "gcp - Category - Databases Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_databases_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -93,7 +93,7 @@
         {
             "tag": "gcp - Category - Observability Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_observability_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -101,7 +101,7 @@
         {
             "tag": "gcp - Category - Media Services Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_media_services_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -109,7 +109,7 @@
         {
             "tag": "gcp - Category - Security Identity Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_security_identity_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -117,7 +117,7 @@
         {
             "tag": "gcp - Category - Business Intelligence Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_business_intelligence_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -125,7 +125,7 @@
         {
             "tag": "gcp - Category - Agents Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_agents_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -133,7 +133,7 @@
         {
             "tag": "gcp - Category - Marketplace Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_marketplace_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -141,7 +141,7 @@
         {
             "tag": "gcp - Category - Hybrid Multicloud Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_hybrid_multicloud_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -149,7 +149,7 @@
         {
             "tag": "gcp - Category - Collaboration Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_collaboration_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -157,7 +157,7 @@
         {
             "tag": "gcp - Category - Storage Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_storage_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -165,7 +165,7 @@
         {
             "tag": "gcp - Category - Containers Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_containers_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -173,7 +173,7 @@
         {
             "tag": "gcp - Category - Management Tools Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_management_tools_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -181,7 +181,7 @@
         {
             "tag": "gcp - Category - Web Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_web_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -189,7 +189,7 @@
         {
             "tag": "gcp - Category - Operations Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_operations_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -197,7 +197,7 @@
         {
             "tag": "gcp - Category - Mixed Reality Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_mixed_reality_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -205,7 +205,7 @@
         {
             "tag": "gcp - Category - Maps Geospatial Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_category_maps_geospatial_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -213,7 +213,7 @@
         {
             "tag": "gcp - Unique - Looker Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_looker_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -221,7 +221,7 @@
         {
             "tag": "gcp - Unique - Gke Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_gke_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -229,7 +229,7 @@
         {
             "tag": "gcp - Unique - Anthos Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_anthos_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -237,7 +237,7 @@
         {
             "tag": "gcp - Unique - Sec Ops Color Rgb",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_sec_ops_color_rgb.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -245,7 +245,7 @@
         {
             "tag": "gcp - Unique - Mandiant Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_mandiant_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -253,7 +253,7 @@
         {
             "tag": "gcp - Unique - Big Query Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_big_query_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -261,7 +261,7 @@
         {
             "tag": "gcp - Unique - Cloud Run Color Rgb",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_cloud_run_color_rgb.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -269,7 +269,7 @@
         {
             "tag": "gcp - Unique - Security Command Center Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_security_command_center_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -277,7 +277,7 @@
         {
             "tag": "gcp - Unique - Cloud Sql Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_cloud_sql_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -285,7 +285,7 @@
         {
             "tag": "gcp - Unique - Distributed Cloud Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_distributed_cloud_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -293,7 +293,7 @@
         {
             "tag": "gcp - Unique - Apigee Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_apigee_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -301,7 +301,7 @@
         {
             "tag": "gcp - Unique - Ai Hypercomputer Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_ai_hypercomputer_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -309,7 +309,7 @@
         {
             "tag": "gcp - Unique - Cloud Storage Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_cloud_storage_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -317,7 +317,7 @@
         {
             "tag": "gcp - Unique - Hyperdisk Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_hyperdisk_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -325,7 +325,7 @@
         {
             "tag": "gcp - Unique - Vertex Ai Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_vertex_ai_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -333,7 +333,7 @@
         {
             "tag": "gcp - Unique - Compute Engine Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_compute_engine_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -341,7 +341,7 @@
         {
             "tag": "gcp - Unique - Threat Intelligence Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_threat_intelligence_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -349,7 +349,7 @@
         {
             "tag": "gcp - Unique - Cloud Spanner Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_cloud_spanner_color.png",
             "shape": "RoundedBox",
             "border": "solid"
@@ -357,7 +357,7 @@
         {
             "tag": "gcp - Unique - Alloy Db Color",
             "stroke": "#232f3d",
-            "color": "#ffffff",
+            "color": "#232f3d",
             "icon": "gcp_unique_alloy_db_color.png",
             "shape": "RoundedBox",
             "border": "solid"

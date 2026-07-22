@@ -8,6 +8,17 @@ The theme follows the new guideline from Google and thus it includes two differe
 This theme has been created with `st` CLI. Available [here](https://github.com/FedericoCantarelli/st). Please note that `st` CLI is in a **very early stage** version. I mean, i would not use it if i was you, but if you want to give it a try, feel free to do it.
 
 ## Usage
+To use this theme, just add the following line to your view statement:
+```dsl
+views {
+  ...
+  themes https://raw.githubusercontent.com/FedericoCantarelli/structurizr-gcp-theme/refs/heads/main/<your-version>/gcp/theme.json
+  }
+```
+you can replace `<your-version>` with the version you want to use. For example, if you want to use version 0, you can use `v0`.
+
+<br><br>
+Then you can simply use the theme by assigning the TAG to your elements.
 
 ## Limitation
 For the moment, Gemini Icon is not present since this repository has been created with `st` CLI and gemini icon wasn't included in Google icons pack.
