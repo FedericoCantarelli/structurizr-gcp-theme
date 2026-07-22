@@ -3,7 +3,7 @@
     "description": "Description here",
     "elements": [
         {
-            "tag": "gcp - Category - Migration Color",
+            "tag": "GCP - Category - Migration Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_migration_color.png",
@@ -11,7 +11,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Developer Tools Color",
+            "tag": "GCP - Category - Developer Tools Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_developer_tools_color.png",
@@ -19,7 +19,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Networking Color",
+            "tag": "GCP - Category - Networking Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_networking_color.png",
@@ -27,7 +27,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Compute Color",
+            "tag": "GCP - Category - Compute Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_compute_color.png",
@@ -35,7 +35,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Integration Services Color",
+            "tag": "GCP - Category - Integration Services Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_integration_services_color.png",
@@ -43,7 +43,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Ai Machine Learning Color",
+            "tag": "GCP - Category - Ai Machine Learning Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_ai_machine_learning_color.png",
@@ -51,7 +51,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Data Analytics Color",
+            "tag": "GCP - Category - Data Analytics Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_data_analytics_color.png",
@@ -59,7 +59,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Serverless Computing Color",
+            "tag": "GCP - Category - Serverless Computing Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_serverless_computing_color.png",
@@ -67,7 +67,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Dev Ops Color",
+            "tag": "GCP - Category - Dev Ops Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_dev_ops_color.png",
@@ -75,7 +75,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Web Mobile Color",
+            "tag": "GCP - Category - Web Mobile Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_web_mobile_color.png",
@@ -83,7 +83,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Databases Color",
+            "tag": "GCP - Category - Databases Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_databases_color.png",
@@ -91,7 +91,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Observability Color",
+            "tag": "GCP - Category - Observability Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_observability_color.png",
@@ -99,7 +99,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Media Services Color",
+            "tag": "GCP - Category - Media Services Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_media_services_color.png",
@@ -107,7 +107,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Security Identity Color",
+            "tag": "GCP - Category - Security Identity Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_security_identity_color.png",
@@ -115,7 +115,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Business Intelligence Color",
+            "tag": "GCP - Category - Business Intelligence Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_business_intelligence_color.png",
@@ -123,7 +123,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Agents Color",
+            "tag": "GCP - Category - Agents Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_agents_color.png",
@@ -131,7 +131,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Marketplace Color",
+            "tag": "GCP - Category - Marketplace Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_marketplace_color.png",
@@ -139,7 +139,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Hybrid Multicloud Color",
+            "tag": "GCP - Category - Hybrid Multicloud Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_hybrid_multicloud_color.png",
@@ -147,7 +147,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Collaboration Color",
+            "tag": "GCP - Category - Collaboration Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_collaboration_color.png",
@@ -155,7 +155,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Storage Color",
+            "tag": "GCP - Category - Storage Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_storage_color.png",
@@ -163,7 +163,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Containers Color",
+            "tag": "GCP - Category - Containers Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_containers_color.png",
@@ -171,7 +171,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Management Tools Color",
+            "tag": "GCP - Category - Management Tools Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_management_tools_color.png",
@@ -179,7 +179,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Web Color",
+            "tag": "GCP - Category - Web Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_web_color.png",
@@ -187,7 +187,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Operations Color",
+            "tag": "GCP - Category - Operations Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_operations_color.png",
@@ -195,7 +195,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Mixed Reality Color",
+            "tag": "GCP - Category - Mixed Reality Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_mixed_reality_color.png",
@@ -203,7 +203,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Category - Maps Geospatial Color",
+            "tag": "GCP - Category - Maps Geospatial Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_category_maps_geospatial_color.png",
@@ -211,7 +211,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Looker Color",
+            "tag": "GCP - Unique - Looker Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_looker_color.png",
@@ -219,7 +219,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Gke Color",
+            "tag": "GCP - Unique - Gke Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_gke_color.png",
@@ -227,7 +227,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Anthos Color",
+            "tag": "GCP - Unique - Anthos Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_anthos_color.png",
@@ -235,7 +235,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Sec Ops Color Rgb",
+            "tag": "GCP - Unique - Sec Ops Color Rgb",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_sec_ops_color_rgb.png",
@@ -243,7 +243,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Mandiant Color",
+            "tag": "GCP - Unique - Mandiant Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_mandiant_color.png",
@@ -251,7 +251,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Big Query Color",
+            "tag": "GCP - Unique - Big Query Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_big_query_color.png",
@@ -259,7 +259,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Cloud Run Color Rgb",
+            "tag": "GCP - Unique - Cloud Run Color Rgb",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_cloud_run_color_rgb.png",
@@ -267,7 +267,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Security Command Center Color",
+            "tag": "GCP - Unique - Security Command Center Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_security_command_center_color.png",
@@ -275,7 +275,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Cloud Sql Color",
+            "tag": "GCP - Unique - Cloud Sql Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_cloud_sql_color.png",
@@ -283,7 +283,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Distributed Cloud Color",
+            "tag": "GCP - Unique - Distributed Cloud Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_distributed_cloud_color.png",
@@ -291,7 +291,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Apigee Color",
+            "tag": "GCP - Unique - Apigee Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_apigee_color.png",
@@ -299,7 +299,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Ai Hypercomputer Color",
+            "tag": "GCP - Unique - Ai Hypercomputer Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_ai_hypercomputer_color.png",
@@ -307,7 +307,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Cloud Storage Color",
+            "tag": "GCP - Unique - Cloud Storage Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_cloud_storage_color.png",
@@ -315,7 +315,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Hyperdisk Color",
+            "tag": "GCP - Unique - Hyperdisk Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_hyperdisk_color.png",
@@ -323,7 +323,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Vertex Ai Color",
+            "tag": "GCP - Unique - Vertex Ai Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_vertex_ai_color.png",
@@ -331,7 +331,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Compute Engine Color",
+            "tag": "GCP - Unique - Compute Engine Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_compute_engine_color.png",
@@ -339,7 +339,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Threat Intelligence Color",
+            "tag": "GCP - Unique - Threat Intelligence Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_threat_intelligence_color.png",
@@ -347,7 +347,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Cloud Spanner Color",
+            "tag": "GCP - Unique - Cloud Spanner Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_cloud_spanner_color.png",
@@ -355,7 +355,7 @@
             "border": "solid"
         },
         {
-            "tag": "gcp - Unique - Alloy Db Color",
+            "tag": "GCP - Unique - Alloy Db Color",
             "stroke": "#232f3d",
             "color": "#232f3d",
             "icon": "gcp_unique_alloy_db_color.png",
